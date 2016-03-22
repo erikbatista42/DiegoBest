@@ -1,0 +1,16 @@
+.page-wrap {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+}
+body {
+	background-color: gray;
+}
+.intro {
+	background-color: white;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	height: 125px;
+}
