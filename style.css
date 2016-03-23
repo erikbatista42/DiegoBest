@@ -4,7 +4,7 @@
 	position: relative;
 }
 body {
-	background-color: gray;
+	
 }
 .intro {
 	background-color: white;
@@ -13,4 +13,48 @@ body {
 	right: 0px;
 	top: 0px;
 	height: 125px;
+}
+.diego {
+	color: #404040;
+	position: absolute;
+	top: 5px;
+	left: 50px;
+	font-size: 34px;
+	font-family: Helvetica;
+	letter-spacing: 3px;
+}
+ul {
+	
+	position: absolute;
+	top: 35px;
+	right: 60px;
+}
+li {
+	margin-left: 20px;
+	margin-right: 20px;
+	letter-spacing: 3px;
+	font-weight: bold;
+	font-family: Helvetica;
+	display: inline;
+}
+a {
+	color: #404040;
+	list-style-type: none;
+	text-decoration: none;
+}
+a:hover {
+	color: rgb(230, 175, 97);
+	transition: 0.2s;
+}
+.hori1 {
+	left: 0px;
+	background-color: rgb(127, 127, 127);
+	position: absolute;
+	top: 126px;
+	width: 100%;
+	height: 1px;
+}
+.pictures {
+	padding-top: 250px;
+	background-color: gray;
 }
