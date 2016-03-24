@@ -56,5 +56,25 @@ a:hover {
 }
 .pictures {
 	padding-top: 250px;
-	background-color: gray;
+	
+}
+.red {
+	position: absolute;
+	left: 0px;
+	height: 650px;
+	width: 640px;
+}
+.blue {
+	position: absolute;
+	left: 640px;
+	height: 650px;
+	width: 640px;
+}
+.purple {
+	position: absolute;
+	top: 253px;
+	left: 1280px;
+	height: 655px;
+	width: 640px;
+
 }
