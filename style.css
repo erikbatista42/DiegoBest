@@ -58,22 +58,64 @@ a:hover {
 	padding-top: 250px;
 	
 }
-.red {
+.img1 {
 	position: absolute;
 	left: 0px;
 	height: 650px;
 	width: 640px;
 }
-.blue {
+.img2 {
 	position: absolute;
 	left: 640px;
 	height: 650px;
 	width: 640px;
 }
-.purple {
+.img3 {
 	position: absolute;
-	top: 253px;
+	top: 258px;
+	left: 1280px;
+	height: 650px;
+	width: 615px;
+}
+.img4 {
+	position: absolute;
+	top: 908px;
+	left: 0px;
+	height: 650px;
+	width: 640px;
+}
+.img5 {
+	position: absolute;
+	top: 908px;
+	left: 640px;
+	height: 650px;
+	width: 640px;
+}
+.img6 {
+	position: absolute;
+	top: 908px;
 	left: 1280px;
 	height: 655px;
+	width: 615px;
+}
+.img7 {
+	position: absolute;
+	top: 1558px;
+	left: 0px;
+	height: 650px;
 	width: 640px;
+}
+.img8 {
+	position: absolute;
+	top: 1558px;
+	left: 640px;
+	height: 650px;
+	width: 640px;
+}
+.img9 {
+	position: absolute;
+	top: 1558px;
+	left: 1280px;
+	height: 650px;
+	width: 615px;
 }
