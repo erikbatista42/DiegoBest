@@ -3,8 +3,9 @@
 	margin: 0 auto;
 	position: relative;
 }
-body {
-	
+body, html {
+	width: 100%;
+		
 }
 .intro {
 	background-color: white;
